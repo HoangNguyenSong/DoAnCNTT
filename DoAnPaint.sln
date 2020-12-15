@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPaint", "MyPaint\MyPaint.csproj", "{AEF3FC4A-3ABA-4D0B-AF1B-3D0AF911C8B3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup_paint", "setup_paint\setup_paint.vdproj", "{E8001472-49CD-47B2-81DA-E63F977B2DD4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{5097C9B6-4C12-47CF-A055-0D2134BA0A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF3FC4A-3ABA-4D0B-AF1B-3D0AF911C8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF3FC4A-3ABA-4D0B-AF1B-3D0AF911C8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF3FC4A-3ABA-4D0B-AF1B-3D0AF911C8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF3FC4A-3ABA-4D0B-AF1B-3D0AF911C8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8001472-49CD-47B2-81DA-E63F977B2DD4}.Debug|Any CPU.ActiveCfg = Debug
+		{E8001472-49CD-47B2-81DA-E63F977B2DD4}.Release|Any CPU.ActiveCfg = Release
+		{5097C9B6-4C12-47CF-A055-0D2134BA0A66}.Debug|Any CPU.ActiveCfg = Debug
+		{5097C9B6-4C12-47CF-A055-0D2134BA0A66}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C45D0A-665B-48AB-B586-A4E455206911}
+	EndGlobalSection
+EndGlobal
